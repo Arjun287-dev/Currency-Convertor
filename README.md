@@ -1,4 +1,3 @@
-
 # Currency Converter
 
 A simple application that converts US Dollars (USD) to Indian Rupees (INR) using real-time exchange rates fetched from an
