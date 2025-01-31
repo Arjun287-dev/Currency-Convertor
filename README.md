@@ -1,7 +1,10 @@
 # Currency Converter
 
-A simple application that converts US Dollars (USD) to Indian Rupees (INR) or US Dollars (USD) to Indian Rupees (INR) using real-time exchange rates fetched from an
-API.
+A simple application that converts US Dollars (USD) to Indian Rupees (INR) or US Dollars (USD) to Indian Rupees (INR) using real-time exchange rates fetched from an API.
+
+# Link
+
+https://dollar2rupees-rupees2dollar.streamlit.app/
 
 ## Features
 - Fetches live USD-INR conversion rates from a reliable API.
