@@ -36,7 +36,7 @@ class CurrencyConvert:
             if self.currency == "USD":
                 st.write(f"1 USD is equal to {self.exchange_currency['INRUSD']:.2f} INR")
                 converted_amount = self.amount * self.exchange_currency["INRUSD"]
-                st.write(f"{self.amount:} INR is equal to {converted_amount:.2f} USD")
+                st.write(f"{self.amount:} USD is equal to {converted_amount:.2f} INR")
             else:      
                 st.write(f"1 INR is equal to {self.exchange_currency['USDINR']:.2f} USD")  
                 converted_amount = self.amount * self.exchange_currency["USDINR"]
